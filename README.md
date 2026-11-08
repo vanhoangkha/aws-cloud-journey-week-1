@@ -17,23 +17,23 @@
 
 </div>
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [Overview](#-overview)
-- [Learning Objectives](#-learning-objectives)
-- [Course Structure](#-course-structure)
-- [Quick Start](#-quick-start)
-- [Detailed Content](#-detailed-content)
-- [Prerequisites](#-prerequisites)
-- [Installation & Setup](#-installation--setup)
-- [Usage Guide](#-usage-guide)
-- [Assessment](#-assessment)
-- [Contributing](#-contributing)
-- [Support](#-support)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
+- [Course Structure](#course-structure)
+- [Quick Start](#quick-start)
+- [Detailed Content](#detailed-content)
+- [Prerequisites](#prerequisites)
+- [Installation & Setup](#installation--setup)
+- [Usage Guide](#usage-guide)
+- [Assessment](#assessment)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
-## 🎯 Overview
+## Overview
 
 This repository contains comprehensive course materials for **AWS Fundamentals - Week 1**, designed to provide a solid foundation in Amazon Web Services and cloud computing concepts. The course combines theoretical knowledge with hands-on practical exercises to ensure effective learning.
 
@@ -46,42 +46,42 @@ This repository contains comprehensive course materials for **AWS Fundamentals -
 - **Cost Optimization**: Pricing models, budgeting, and cost management tools
 - **Architecture Design**: Well-Architected Framework principles and practical application
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this course, participants will be able to:
 
-- ✅ **Understand** cloud computing concepts and AWS service models (IaaS, PaaS, SaaS)
-- ✅ **Navigate** AWS Global Infrastructure and choose appropriate regions
-- ✅ **Apply** Amazon Leadership Principles in solution design
-- ✅ **Implement** security best practices using IAM and related services
-- ✅ **Utilize** AWS management tools (Console, CLI, CloudShell, SDK)
-- ✅ **Optimize** costs using AWS pricing models and monitoring tools
-- ✅ **Design** basic 3-tier architectures following Well-Architected principles
-- ✅ **Prepare** for AWS Cloud Practitioner certification
+- **Understand** cloud computing concepts and AWS service models (IaaS, PaaS, SaaS)
+- **Navigate** AWS Global Infrastructure and choose appropriate regions
+- **Apply** Amazon Leadership Principles in solution design
+- **Implement** security best practices using IAM and related services
+- **Utilize** AWS management tools (Console, CLI, CloudShell, SDK)
+- **Optimize** costs using AWS pricing models and monitoring tools
+- **Design** basic 3-tier architectures following Well-Architected principles
+- **Prepare** for AWS Cloud Practitioner certification
 
-## 📁 Course Structure
+## Course Structure
 
 ```
 Week-1/
-├── 📂 slides/              # 24 comprehensive slides + 7 supplementary slides
-│   ├── 📄 Slide_01_Trang_Bia.md
-│   ├── 📄 Slide_02_Noi_Dung_Khoa_Hoc.md
+├── slides/ # 24 comprehensive slides + 7 supplementary slides
+│ ├── Slide_01_Trang_Bia.md
+│ ├── Slide_02_Noi_Dung_Khoa_Hoc.md
 │   └── ... (22 more slides)
-├── 📂 labs/               # 5 hands-on laboratory exercises
-│   ├── 📄 Lab_005_IAM_Security_Setup.md
-│   ├── 📄 Lab_006_CloudShell_Hands_on.md
+├── labs/ # 5 hands-on laboratory exercises
+│ ├── Lab_005_IAM_Security_Setup.md
+│ ├── Lab_006_CloudShell_Hands_on.md
 │   └── ... (3 more labs)
-├── 📂 assessment/         # Quiz and practical assessments
-│   └── 📄 Quiz_Assessment.md
-├── 📂 resources/          # Original presentation materials
-│   ├── 📄 FCJ - Week 1 - Introduction to AWS.pdf
-│   └── 📄 FCJ - Week 1 - Introduction to AWS.pptx
-├── 📄 README.md           # This file
-├── 📄 _config.yml         # GitHub Pages configuration
-└── 📄 .gitignore          # Git ignore rules
+├── assessment/ # Quiz and practical assessments
+│ └── Quiz_Assessment.md
+├── resources/ # Original presentation materials
+│ ├── FCJ - Week 1 - Introduction to AWS.pdf
+│ └── FCJ - Week 1 - Introduction to AWS.pptx
+├── README.md # This file
+├── _config.yml # GitHub Pages configuration
+└── .gitignore # Git ignore rules
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Clone Repository
 ```bash
@@ -95,12 +95,12 @@ cd Week-1
 ### Option 3: GitHub Codespaces
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/vanhoangkha/Week-1)
 
-## 📖 Detailed Content
+## Detailed Content
 
-### 🎨 Slides (24 Core + 7 Supplementary)
+### Slides (24 Core + 7 Supplementary)
 
 <details>
-<summary><strong>📚 Theory Slides (1-17)</strong></summary>
+<summary><strong>Theory Slides (1-17)</strong></summary>
 
 | Slide | Topic | Duration |
 |-------|-------|----------|
@@ -125,7 +125,7 @@ cd Week-1
 </details>
 
 <details>
-<summary><strong>🛠️ Demo & Practice Slides (18-24)</strong></summary>
+<summary><strong>Demo & Practice Slides (18-24)</strong></summary>
 
 | Slide | Topic | Duration |
 |-------|-------|----------|
@@ -139,30 +139,30 @@ cd Week-1
 
 </details>
 
-### 🔬 Laboratory Exercises
+### Laboratory Exercises
 
 <details>
-<summary><strong>🧪 Hands-on Labs (5 Labs)</strong></summary>
+<summary><strong>Hands-on Labs (5 Labs)</strong></summary>
 
 | Lab | Title | Duration | Difficulty |
 |-----|-------|----------|------------|
-| 005 | IAM Security Setup | 45 min | ⭐⭐ |
-| 006 | CloudShell Hands-on | 30 min | ⭐ |
-| 008 | Cost Monitoring Setup | 45 min | ⭐⭐ |
-| 010 | Security Best Practices | 60 min | ⭐⭐⭐ |
-| 011 | Architecture Design Exercise | 90 min | ⭐⭐⭐ |
+| 005 | IAM Security Setup | 45 min |  |
+| 006 | CloudShell Hands-on | 30 min |  |
+| 008 | Cost Monitoring Setup | 45 min |  |
+| 010 | Security Best Practices | 60 min |  |
+| 011 | Architecture Design Exercise | 90 min |  |
 
 **Total Lab Time**: ~4.5 hours
 
 </details>
 
-### 📝 Assessment
+### Assessment
 
 - **Quiz**: 10 multiple-choice questions (30 minutes)
 - **Practical Tasks**: 6 hands-on exercises (4 hours)
 - **Presentation**: Architecture design presentation (10 minutes)
 
-## 🎓 Prerequisites
+## Prerequisites
 
 ### Required Knowledge
 - Basic understanding of IT concepts
@@ -180,7 +180,7 @@ cd Week-1
 - [ ] Familiarize yourself with basic Linux commands
 - [ ] Read [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### 1. AWS Account Setup
 ```bash
@@ -205,29 +205,29 @@ aws --version
 ping aws.amazon.com
 ```
 
-## 📚 Usage Guide
+## Usage Guide
 
 ### For Students
 
 1. **Start with Theory**
    ```
-   📖 Read slides/README.md
-   📖 Follow slides 01-17 sequentially
-   ⏱️ Estimated time: 3 hours
+   Read slides/README.md
+   Follow slides 01-17 sequentially
+   Estimated time: 3 hours
    ```
 
 2. **Practice with Labs**
    ```
-   🔬 Read labs/README.md
-   🔬 Complete labs 005, 006, 008, 010, 011
-   ⏱️ Estimated time: 4.5 hours
+   Read labs/README.md
+   Complete labs 005, 006, 008, 010, 011
+   Estimated time: 4.5 hours
    ```
 
 3. **Assessment**
    ```
-   📝 Complete quiz in assessment/
-   📝 Submit practical tasks
-   ⏱️ Estimated time: 4.5 hours
+   Complete quiz in assessment/
+   Submit practical tasks
+   Estimated time: 4.5 hours
    ```
 
 ### For Instructors
@@ -245,7 +245,7 @@ ping aws.amazon.com
    - Use resources/ folder for original presentations
    - Customize content based on audience needs
 
-## 📊 Assessment
+## Assessment
 
 ### Grading Breakdown
 - **Quiz (40%)**: 10 multiple-choice questions
@@ -262,11 +262,11 @@ ping aws.amazon.com
 
 ### Certification Path
 Upon successful completion, students are prepared for:
-- ✅ **AWS Cloud Practitioner** (CLF-C01)
-- ➡️ **AWS Solutions Architect Associate** (SAA-C03)
-- ➡️ **AWS Security Specialty** (SCS-C01)
+- **AWS Cloud Practitioner** (CLF-C01)
+- **AWS Solutions Architect Associate** (SAA-C03)
+- **AWS Security Specialty** (SCS-C01)
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to improve this course! Please see our [Contributing Guidelines](CONTRIBUTING.md).
 
@@ -278,20 +278,20 @@ We welcome contributions to improve this course! Please see our [Contributing Gu
 5. **Open** a Pull Request
 
 ### Areas for Contribution
-- 📝 Content improvements and corrections
-- 🌐 Translations to other languages
-- 🔧 Additional lab exercises
-- 📊 Enhanced assessment materials
-- 🎨 Visual improvements and diagrams
+- Content improvements and corrections
+- Translations to other languages
+- Additional lab exercises
+- Enhanced assessment materials
+- Visual improvements and diagrams
 
-## 🆘 Support
+## Support
 
 ### Getting Help
 
-- **📧 Email**: [vanhoangkha@example.com](mailto:vanhoangkha@example.com)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/vanhoangkha/Week-1/discussions)
-- **🐛 Issues**: [GitHub Issues](https://github.com/vanhoangkha/Week-1/issues)
-- **📚 AWS Documentation**: [docs.aws.amazon.com](https://docs.aws.amazon.com/)
+- **Email**: [vanhoangkha@example.com](mailto:vanhoangkha@example.com)
+- **Discussions**: [GitHub Discussions](https://github.com/vanhoangkha/Week-1/discussions)
+- **Issues**: [GitHub Issues](https://github.com/vanhoangkha/Week-1/issues)
+- **AWS Documentation**: [docs.aws.amazon.com](https://docs.aws.amazon.com/)
 
 ### FAQ
 
@@ -310,7 +310,7 @@ A: Absolutely! The materials are designed for both instructor-led and self-paced
 A: Approximately 12-15 hours total: 3 hours theory, 4.5 hours labs, 4.5 hours assessment, plus review time.
 </details>
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -318,7 +318,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - AWS content and trademarks © Amazon Web Services, Inc. or its Affiliates
 - Course materials developed by NEO Training Centre
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 ### Contributors
 - **Kha Van** - *Course Developer* - [GitHub](https://github.com/vanhoangkha)
@@ -339,11 +339,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**⭐ If you find this course helpful, please give it a star! ⭐**
+**If you find this course helpful, please give it a star! **
 
 [![GitHub Stars](https://img.shields.io/github/stars/vanhoangkha/Week-1?style=social)](https://github.com/vanhoangkha/Week-1/stargazers)
 
-**Made with ❤️ by [Kha Van](https://github.com/vanhoangkha)**
+**Made with by [Kha Van](https://github.com/vanhoangkha)**
 
 *AWS Community Builder | Cloud Engineer | Educator*
 

@@ -1,6 +1,6 @@
 # Tối ưu hóa chi phí trên AWS
 
-## Chiến lược tối ưu hóa chi phí 💰
+## Chiến lược tối ưu hóa chi phí
 
 ### 1. Right-sizing Resources
 - **Lựa chọn cấu hình phù hợp** với workload
@@ -22,7 +22,7 @@
 - **Lifecycle policies**: Tự động chuyển đổi storage classes
 - **Delete unused snapshots** và volumes
 
-## AWS Cost Management Tools 🛠️
+## AWS Cost Management Tools
 
 ### AWS Cost Explorer
 - **Visualize spending patterns** theo service, region, account

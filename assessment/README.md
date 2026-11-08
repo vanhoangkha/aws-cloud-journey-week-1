@@ -1,6 +1,6 @@
 # Assessment - AWS Fundamentals Week 1
 
-## 📝 Nội dung đánh giá
+## Nội dung đánh giá
 
 ### Quiz (40 điểm)
 **10 câu hỏi trắc nghiệm** về các chủ đề:
@@ -43,7 +43,7 @@
    - Architecture presentation
    - Q&A handling
 
-## 🎯 Grading Rubric
+## Grading Rubric
 
 ### Excellent (90-100%)
 - Tất cả tasks hoàn thành chính xác
@@ -75,12 +75,12 @@
 - Lỗi nghiêm trọng
 - Không có documentation
 
-## ⏱️ Thời gian
+## Thời gian
 - **Quiz**: 30 phút
 - **Practical Tasks**: 4 giờ
 - **Presentation**: 10 phút/người
 
-## 📚 Study Guide
+## Study Guide
 ### Key Topics:
 - IaaS, PaaS, SaaS differences
 - AWS Regions, AZs, Edge Locations
@@ -95,7 +95,7 @@
 - AWS Free Tier guide
 - Well-Architected whitepapers
 
-## 🏆 Certification Path
+## Certification Path
 Sau khóa học này, học viên có thể tiếp tục với:
 - AWS Cloud Practitioner
 - AWS Solutions Architect Associate

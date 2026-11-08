@@ -1,26 +1,26 @@
 # Tổng kết và bước tiếp theo
 
-## Những gì chúng ta đã học 📚
+## Những gì chúng ta đã học
 
 ### Cloud Computing Fundamentals
-- ✅ **Định nghĩa và lợi ích** của cloud computing
-- ✅ **Các mô hình dịch vụ**: IaaS, PaaS, SaaS
-- ✅ **Các mô hình triển khai**: Public, Private, Hybrid, Multi-cloud
+- **Định nghĩa và lợi ích** của cloud computing
+- **Các mô hình dịch vụ**: IaaS, PaaS, SaaS
+- **Các mô hình triển khai**: Public, Private, Hybrid, Multi-cloud
 
 ### AWS Core Concepts
-- ✅ **AWS Global Infrastructure**: Regions, AZs, Edge Locations
-- ✅ **Amazon Leadership Principles**: Customer Obsession, Ownership, Invent & Simplify
-- ✅ **AWS Account setup** và security best practices
-- ✅ **Cost optimization** strategies và tools
+- **AWS Global Infrastructure**: Regions, AZs, Edge Locations
+- **Amazon Leadership Principles**: Customer Obsession, Ownership, Invent & Simplify
+- **AWS Account setup** và security best practices
+- **Cost optimization** strategies và tools
 
 ### Hands-on Experience
-- ✅ **AWS Management Console** navigation
-- ✅ **IAM security** setup với MFA
-- ✅ **Cost monitoring** với Budgets và Cost Explorer
-- ✅ **CloudShell** practical usage
-- ✅ **Architecture design** exercise
+- **AWS Management Console** navigation
+- **IAM security** setup với MFA
+- **Cost monitoring** với Budgets và Cost Explorer
+- **CloudShell** practical usage
+- **Architecture design** exercise
 
-## Bước tiếp theo 🚀
+## Bước tiếp theo
 
 ### Immediate Actions (Tuần tới)
 1. **Complete all labs** nếu chưa xong
@@ -40,14 +40,14 @@
 3. **Build portfolio projects**
 4. **Contribute to open source** AWS projects
 
-## Resources để tiếp tục học 📖
+## Resources để tiếp tục học
 - **AWS Documentation**: https://docs.aws.amazon.com/
 - **AWS Training**: https://aws.amazon.com/training/
 - **AWS re:Invent Videos**: YouTube channel
 - **AWS Whitepapers**: Architecture best practices
 - **Hands-on Labs**: AWS Workshops, qwiklabs.com
 
-## Cảm ơn! 🙏
+## Cảm ơn!
 **Questions & Discussion**
 
 ---

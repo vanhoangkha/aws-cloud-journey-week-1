@@ -1,6 +1,6 @@
 # Labs - AWS Fundamentals Week 1
 
-## 🔬 Danh sách Labs (5 labs thực hành)
+## Danh sách Labs (5 labs thực hành)
 
 ### Lab 005: IAM Security Setup (45 phút)
 **Mục tiêu**: Thiết lập bảo mật cơ bản cho AWS account
@@ -37,12 +37,12 @@
 - Estimate costs using calculator
 - Present solutions và peer review
 
-## 📋 Prerequisites
+## Prerequisites
 - AWS account với administrative access
 - Basic command line knowledge
 - Understanding của AWS core concepts
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 Sau khi hoàn thành tất cả labs, học viên sẽ có thể:
 - Thiết lập AWS account an toàn
 - Sử dụng AWS CLI và CloudShell hiệu quả
@@ -50,13 +50,13 @@ Sau khi hoàn thành tất cả labs, học viên sẽ có thể:
 - Implement security best practices
 - Thiết kế kiến trúc ứng dụng cơ bản
 
-## ⚠️ Lưu ý quan trọng
+## Lưu ý quan trọng
 - Luôn clean up resources sau mỗi lab
 - Monitor AWS costs trong quá trình thực hành
 - Backup important configurations
 - Follow security best practices
 
-## 🆘 Troubleshooting
+## Troubleshooting
 - Check IAM permissions nếu gặp access denied
 - Verify region settings cho services
 - Ensure Free Tier limits không bị vượt quá

@@ -1,6 +1,6 @@
 # AWS Free Tier
 
-## Always Free (Không giới hạn thời gian) ♾️
+## Always Free (Không giới hạn thời gian)
 
 ### Compute & Serverless
 - **AWS Lambda**: 1 triệu requests/tháng + 400,000 GB-giây
@@ -12,7 +12,7 @@
 - **AWS CloudFormation**: 1,000 handler operations/tháng
 - **AWS CodeBuild**: 100 build minutes/tháng
 
-## 12 Months Free (Từ ngày tạo account) 📅
+## 12 Months Free (Từ ngày tạo account)
 
 ### Compute
 - **Amazon EC2**: 750 giờ/tháng t2.micro instance
@@ -28,12 +28,12 @@
 ### Networking
 - **Amazon CloudFront**: 50 GB data transfer + 2 triệu requests
 
-## Trials (Thời gian ngắn) ⏰
+## Trials (Thời gian ngắn)
 - **Amazon SageMaker**: 250 giờ/tháng ml.t2.medium (2 tháng)
 - **Amazon Redshift**: 750 giờ/tháng dc2.large (2 tháng)
 - **Amazon Inspector**: 90 ngày trial
 
-## Best Practices để tránh charges 💡
+## Best Practices để tránh charges
 - **Set up Billing Alerts**: Cảnh báo khi gần hết free tier
 - **Monitor regularly**: Check AWS Free Tier usage page
 - **Understand limits**: Biết rõ giới hạn từng service

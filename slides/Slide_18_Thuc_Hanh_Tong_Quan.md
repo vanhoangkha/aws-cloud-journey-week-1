@@ -1,6 +1,6 @@
 # Thực hành - Tổng quan
 
-## Buổi 2: Hands-on Labs 🔬
+## Buổi 2: Hands-on Labs
 
 ### Lab 005: IAM Security Setup (45 phút)
 - **Tạo IAM admin user** với MFA
@@ -32,7 +32,7 @@
 - **Estimate costs** using calculator
 - **Present solutions** và discuss
 
-## Assessment & Quiz 📝
+## Assessment & Quiz
 - **10-question quiz** về fundamentals
 - **Practical tasks** với hands-on verification
 - **Architecture presentation**

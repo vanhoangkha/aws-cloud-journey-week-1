@@ -1,6 +1,6 @@
 # Slides - AWS Fundamentals Week 1
 
-## 📖 Danh sách Slides (24 slides)
+## Danh sách Slides (24 slides)
 
 ### Phần 1: Lý thuyết cơ bản (Slides 1-11)
 - **01**: Trang bìa khóa học
@@ -32,17 +32,17 @@
 - **23**: Demo AWS Support
 - **24**: Tổng kết và bước tiếp theo
 
-## 🎯 Cách sử dụng
+## Cách sử dụng
 1. Đọc slides theo thứ tự từ 01-24
 2. Mỗi slide được viết bằng Markdown format
 3. Có thể convert sang PowerPoint nếu cần
 4. Kết hợp với labs để thực hành
 
-## ⏱️ Thời gian ước tính
+## Thời gian ước tính
 - **Slides 1-17**: 3 giờ (lý thuyết)
 - **Slides 18-24**: 1 giờ (demo)
 
-## 📝 Ghi chú
+## Ghi chú
 - Tất cả slides đều bằng tiếng Việt
 - Có thể tùy chỉnh nội dung theo nhu cầu
 - Bao gồm cả lý thuyết và practical examples

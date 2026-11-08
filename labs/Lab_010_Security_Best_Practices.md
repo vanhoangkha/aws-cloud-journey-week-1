@@ -13,10 +13,10 @@
 ## Step 1: Enable CloudTrail (Enhanced Setup)
 1. **CloudTrail Console** → Create trail
 2. **Trail name**: `comprehensive-audit-trail`
-3. **Apply trail to all regions**: ✅ Yes
-4. **Management events**: ✅ Read/Write events
+3. **Apply trail to all regions**: Yes
+4. **Management events**: Read/Write events
 5. **Data events**: Configure for S3 buckets
-6. **Insights events**: ✅ Enable (for unusual activity patterns)
+6. **Insights events**: Enable (for unusual activity patterns)
 
 ### S3 Configuration:
 ```bash
@@ -55,14 +55,14 @@ aws s3api put-bucket-lifecycle-configuration --bucket your-bucket-name --lifecyc
 1. **IAM Console** → Account settings
 2. **Password policy** → Set requirements:
    - Minimum length: 12 characters
-   - ✅ Require uppercase letters
-   - ✅ Require lowercase letters  
-   - ✅ Require numbers
-   - ✅ Require symbols
-   - ✅ Allow users to change password
+   - Require uppercase letters
+   - Require lowercase letters
+   - Require numbers
+   - Require symbols
+   - Allow users to change password
    - Password expiration: 90 days
    - Prevent password reuse: 5 passwords
-   - ✅ Require administrator reset if expired
+   - Require administrator reset if expired
 
 ### Using CLI:
 ```bash
@@ -80,7 +80,7 @@ aws iam update-account-password-policy \
 
 ## Step 3: Enable AWS Config
 1. **AWS Config Console** → Get started
-2. **Resource types**: ✅ Record all resources
+2. **Resource types**: Record all resources
 3. **Amazon S3 bucket**: Create new bucket
 4. **Amazon SNS topic**: Create new topic
 5. **AWS Config role**: Create new role

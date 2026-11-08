@@ -1,6 +1,6 @@
 # Amazon Leadership Principles
 
-## Customer Obsession 🎯
+## Customer Obsession
 ### Nguyên tắc
 *"Leaders start with the customer and work backwards"*
 
@@ -14,7 +14,7 @@
 - Chọn services **phù hợp với business needs**
 - Optimize cho **user experience** tốt nhất
 
-## Ownership 🏆
+## Ownership
 ### Nguyên tắc
 *"Leaders are owners. They think long term and don't sacrifice long-term value for short-term results"*
 
@@ -28,7 +28,7 @@
 - Consider **Total Cost of Ownership (TCO)**
 - Plan cho **disaster recovery** và business continuity
 
-## Invent and Simplify 💡
+## Invent and Simplify
 ### Nguyên tắc
 *"Leaders expect and require innovation and invention from their teams and always find ways to simplify"*
 

@@ -1,6 +1,6 @@
 # Demo: AWS Management Console
 
-## Khám phá AWS Management Console 🖥️
+## Khám phá AWS Management Console
 
 ### Login Interface
 - **Root Login**: https://aws.amazon.com/console/
@@ -13,7 +13,7 @@
 - **Cost và usage summary**
 - **Resource groups**
 
-### Service Navigation 🧭
+### Service Navigation
 
 #### Service Search
 - **Search bar** ở top để tìm services
@@ -27,7 +27,7 @@
 - **Networking**: VPC, CloudFront, Route 53
 - **Security**: IAM, GuardDuty, CloudTrail
 
-### Key Console Features 🔧
+### Key Console Features
 
 #### Region Selector
 - **Top-right corner** để chọn region
@@ -45,7 +45,7 @@
 - **Security Credentials**: Access keys, MFA
 - **Sign Out**: Đăng xuất an toàn
 
-### Console Customization 🎨
+### Console Customization
 - **Pin frequently used services**
 - **Create shortcuts**
 - **Customize dashboard widgets**

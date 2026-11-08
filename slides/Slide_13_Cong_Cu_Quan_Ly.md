@@ -1,6 +1,6 @@
 # Công cụ quản lý AWS
 
-## AWS Management Console 🖥️
+## AWS Management Console
 
 ### Web-based Interface
 - **Graphical user interface** qua web browser
@@ -13,7 +13,7 @@
 - **IAM User**: Account ID + username + password + MFA
 - **SSO**: Single Sign-On cho enterprise
 
-## AWS Command Line Interface (CLI) ⌨️
+## AWS Command Line Interface (CLI)
 
 ### Đặc điểm
 - **Open source tool** để tương tác với AWS services
@@ -26,7 +26,7 @@
 - **IAM Roles**: Cho EC2 instances
 - **AWS SSO**: Cho enterprise environments
 
-## AWS Software Development Kits (SDK) 👨‍💻
+## AWS Software Development Kits (SDK)
 
 ### Supported Languages
 - **Python** (boto3), **JavaScript** (Node.js)
@@ -39,7 +39,7 @@
 - **Retry logic** và error handling
 - **Data marshalling** và serialization
 
-## AWS CloudShell ☁️⌨️
+## AWS CloudShell
 
 ### Browser-based Shell
 - **No setup required** - accessible từ console

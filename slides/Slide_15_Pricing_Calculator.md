@@ -1,11 +1,11 @@
 # AWS Pricing Calculator
 
-## Tổng quan 📊
+## Tổng quan
 **AWS Pricing Calculator** là công cụ miễn phí để ước tính chi phí AWS services trước khi triển khai.
 
 **URL**: https://calculator.aws/
 
-## Tính năng chính ✨
+## Tính năng chính
 
 ### 1. Service Estimation
 - **Hơn 100+ AWS services** có sẵn
@@ -22,7 +22,7 @@
 - **Export to CSV/PDF** cho reporting
 - **Save estimates** cho future reference
 
-## Cách sử dụng 🔧
+## Cách sử dụng
 
 ### Step 1: Add Services
 1. **Search và select** AWS services cần estimate
@@ -39,7 +39,7 @@
 - **12-month total cost** projection
 - **Share link** hoặc export file
 
-## Best Practices 💡
+## Best Practices
 - **Start với realistic usage estimates**
 - **Consider growth projections**
 - **Include data transfer costs**

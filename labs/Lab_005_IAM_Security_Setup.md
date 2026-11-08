@@ -22,9 +22,9 @@
 ## Step 2: Create Admin User
 1. **Go to** IAM → Users → Add User
 2. **User name**: `admin-user`
-3. **Access type**: ✅ AWS Management Console access
-4. **Console password**: ✅ Custom password (create strong password)
-5. **Require password reset**: ❌ (uncheck)
+3. **Access type**: AWS Management Console access
+4. **Console password**: Custom password (create strong password)
+5. **Require password reset**: (uncheck)
 6. **Next: Permissions**
 7. **Attach existing policies**: Select `AdministratorAccess`
 8. **Next: Tags** (optional)

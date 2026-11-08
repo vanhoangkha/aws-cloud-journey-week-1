@@ -1,6 +1,6 @@
 # Demo: AWS Budgets
 
-## Lab 000007: Bắt đầu với AWS Budgets 💰
+## Lab 000007: Bắt đầu với AWS Budgets
 
 ### 1. Tạo Cost Budget
 **Mục đích**: Theo dõi tổng chi phí hàng tháng
@@ -45,7 +45,7 @@
 - **Utilization threshold**: 85%
 - **Coverage threshold**: 90%
 
-## Budget Best Practices 💡
+## Budget Best Practices
 - **Start với conservative amounts**
 - **Set multiple alert thresholds**
 - **Review và adjust monthly**

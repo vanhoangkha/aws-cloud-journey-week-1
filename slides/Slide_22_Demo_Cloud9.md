@@ -1,6 +1,6 @@
 # Demo: AWS Cloud9
 
-## Lab 000049: Bắt đầu với AWS Cloud9 ☁️💻
+## Lab 000049: Bắt đầu với AWS Cloud9
 
 ### 1. Tạo Cloud9 Environment
 **AWS Cloud9** là cloud-based IDE với integrated terminal
@@ -16,7 +16,7 @@
    - Cost-saving: Hibernate after 30 minutes
 4. **Network settings**: Default VPC và subnet
 
-### 2. Tính năng cơ bản 🛠️
+### 2. Tính năng cơ bản
 
 #### Code Editor
 - **Syntax highlighting** cho multiple languages
@@ -35,7 +35,7 @@
 - **Share environment** với read/write access
 - **Chat functionality** built-in
 
-### 3. Sử dụng AWS CLI 💻
+### 3. Sử dụng AWS CLI
 
 #### Basic Commands Demo:
 ```bash
@@ -58,7 +58,7 @@ aws ec2 describe-instances --query 'Reservations[*].Instances[*].[InstanceId,Sta
 3. **Deploy to AWS** using CLI/SDK
 4. **Debug và iterate**
 
-## Cloud9 vs CloudShell 🤔
+## Cloud9 vs CloudShell
 - **Cloud9**: Full IDE với persistent environment
 - **CloudShell**: Browser terminal với temporary sessions
 - **Use Cloud9**: Cho development projects

@@ -1,6 +1,6 @@
 # Demo: Tạo tài khoản AWS
 
-## Lab 000001: Tạo tài khoản AWS 🚀
+## Lab 000001: Tạo tài khoản AWS
 
 ### Step 1: Đăng ký tài khoản
 1. **Truy cập**: https://aws.amazon.com/
@@ -31,7 +31,7 @@
 - **Đợi email confirmation**
 - **Account sẽ active** trong vài phút
 
-## Bước tiếp theo quan trọng ⚠️
+## Bước tiếp theo quan trọng
 1. **Enable MFA** cho Root account ngay lập tức
 2. **Tạo IAM admin user** cho daily use
 3. **Set up billing alerts**

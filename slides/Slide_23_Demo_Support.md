@@ -1,6 +1,6 @@
 # Demo: AWS Support
 
-## Lab 000009: Yêu cầu hỗ trợ với AWS Support 🎧
+## Lab 000009: Yêu cầu hỗ trợ với AWS Support
 
 ### 1. Các gói hỗ trợ của AWS
 
@@ -12,7 +12,7 @@
 | **Support Channels** | Forums | Email | Phone/Chat | Phone/Chat/TAM |
 | **Trusted Advisor** | 7 checks | 7 checks | All checks | All checks |
 
-### 2. Truy cập AWS Support 🔍
+### 2. Truy cập AWS Support
 
 #### Support Center Navigation:
 1. **AWS Console** → Support menu → Support Center
@@ -26,7 +26,7 @@
 - **Service limit increases**: Request higher service limits
 - **General guidance**: Architecture và best practices
 
-### 3. Quản lý yêu cầu hỗ trợ 📋
+### 3. Quản lý yêu cầu hỗ trợ
 
 #### Tạo Support Case:
 1. **Select case type**: Technical, billing, hoặc general
@@ -45,7 +45,7 @@
 - **Update severity**: If issue escalates
 - **Close case**: When resolved
 
-### 4. Best Practices 💡
+### 4. Best Practices
 
 #### Writing Effective Support Cases:
 - **Be specific** về the problem
